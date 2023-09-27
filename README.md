@@ -1,21 +1,22 @@
 # Adenilson Ramos
 
-I am a software engineer with a passion for web and mobile development. I am dedicated to constantly learning and expanding my skill set, and am currently studying HTML, CSS, JavaScript, React, React Native, and Node.js.
+I am a software engineer with a passion for web and mobile development. I am dedicated to constantly learning and expanding my skill set, and am currently studying Java, Spring Boot, Flutter.
 
 ## Studying
 
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, Flutter
 - Git, Github
-- Java
+- Postgresql
+- Java, Spring Boot
 
 ## Interests
 
 - React, React Native, Node.js
-- Flutter, Dart
+- Python
 
 ## Education
 
-- Bachelor's degree in Computer Science from the Federal Rural University of Agreste in Pernambuco
+- Bachelor's degree in Computer Science from the Federal University of Agreste of Pernambuco.
 
 ## Contact
 
