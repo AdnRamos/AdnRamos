@@ -1,20 +1,4 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/adn-ramos/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/adn_framos/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://wa.me/message/CXV5NGRDKMLXL1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="37" height="25" alt="whatsapp logo"  />
-  </a>
-</div>
 
 ###
 
@@ -27,8 +11,11 @@
 <h3 align="left">👩‍💻  Sobre mim</h3>
 
 ###
+<p align="left">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" height="150" />
 
-<p align="left">Graduando em Ciência da Computação pela Universidade Federal do Agreste de Pernambuco (UFAPE), com previsão de conclusão em 2026. Possuo experiência em diferentes áreas de tecnologia, com foco em desenvolvimento de software (Front-end e Back-end). Tenho facilidade para trabalho em equipe, boa capacidade de resolução de problemas e estou sempre em busca de aprimorar minhas habilidades técnicas. Além disso, mantenho interesse em pesquisa, tendo atuado em projetos que envolveram Visão Computacional e Gestão Municipal.</p>
+  Graduando em Ciência da Computação pela Universidade Federal do Agreste de Pernambuco (UFAPE), com previsão de conclusão em 2026. Possuo experiência em diferentes áreas de tecnologia, com foco em desenvolvimento de software (Front-end e Back-end). Tenho facilidade para trabalho em equipe, boa capacidade de resolução de problemas e estou sempre em busca de aprimorar minhas habilidades técnicas. Além disso, mantenho interesse em pesquisa, tendo atuado em projetos que envolveram Visão Computacional e Gestão Municipal.
+</p>
 
 ###
 
@@ -72,18 +59,28 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdnRamos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h3 align="left">🔥   My Stats :</h3>
 
+
+
+###
+<br>
+  <div align="center">
+     <a href="https://github.com/AdnRamos"></a>
+  <img height="180em" alt="Adenilson-Status" src="https://github-readme-stats.vercel.app/api?username=AdnRamos&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+  <img height="180em" alt="Adenilson-Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnRamos&layout=compact&langs_count=7&theme=ayu-mirage"/>
+  </div>
+  <br>
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdnRamos&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1" height="250" alt="stats graph"  />
+  <a href="https://www.linkedin.com/in/adn-ramos/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/adn_framos/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/message/CXV5NGRDKMLXL1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="37" height="25" alt="whatsapp logo"  />
+  </a>
 </div>
-
-###
