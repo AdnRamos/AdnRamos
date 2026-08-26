@@ -14,7 +14,7 @@
 <p align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" height="150" />
 
-  Graduando em Ciência da Computação pela Universidade Federal do Agreste de Pernambuco (UFAPE), com previsão de conclusão em 2026. Possuo experiência em diferentes áreas de tecnologia, com foco em desenvolvimento de software (Front-end e Back-end). Tenho facilidade para trabalho em equipe, boa capacidade de resolução de problemas e estou sempre em busca de aprimorar minhas habilidades técnicas. Além disso, mantenho interesse em pesquisa, tendo atuado em projetos que envolveram Visão Computacional e Gestão Municipal.
+  Graduando em Ciência da Computação pela Universidade Federal do Agreste de Pernambuco (UFAPE). Possuo experiência em diferentes áreas de tecnologia, com foco em desenvolvimento de software (Front-end e Back-end). Tenho facilidade para trabalho em equipe, boa capacidade de resolução de problemas e estou sempre em busca de aprimorar minhas habilidades técnicas. Além disso, mantenho interesse em pesquisa, tendo atuado em projetos que envolveram Visão Computacional e Gestão Municipal.
 </p>
 
 ###
