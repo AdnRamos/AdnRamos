@@ -1,86 +1,70 @@
-
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AdnRamos.AdnRamos&"  />
-</div>
-
-###
-
-<h3 align="left">👩‍💻  Sobre mim</h3>
-
-###
-<p align="left">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" height="150" />
-
-  Graduando em Ciência da Computação pela Universidade Federal do Agreste de Pernambuco (UFAPE). Possuo experiência em diferentes áreas de tecnologia, com foco em desenvolvimento de software (Front-end e Back-end). Tenho facilidade para trabalho em equipe, boa capacidade de resolução de problemas e estou sempre em busca de aprimorar minhas habilidades técnicas. Além disso, mantenho interesse em pesquisa, tendo atuado em projetos que envolveram Visão Computacional e Gestão Municipal.
+<h1 align="center">Adenilson Ramos</h1>
+<p align="center">
+  Desenvolvedor Full Stack · Java · Spring Boot · Python · TypeScript · React/Next.js · IA aplicada<br/>
+  Garanhuns, Pernambuco, Brasil
 </p>
 
-###
+<p align="center">
+  <a href="https://adnramos.github.io"><img alt="Portfólio" src="https://img.shields.io/badge/portf%C3%B3lio-adnramos.github.io-6366f1?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/adn-ramos/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-adn--ramos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://adnramos.github.io/curriculo/Curriculo-Adenilson-Ramos.pdf"><img alt="Currículo" src="https://img.shields.io/badge/curr%C3%ADculo-PDF-22d3ee?style=for-the-badge"></a>
+</p>
 
-<h3 align="left">🛠 Linguagens</h3>
+## 👨‍💻 Sobre mim
 
-###
+Graduando em Ciência da Computação na **UFAPE** (conclusão prevista para dezembro de 2027). Desenvolvo sistemas de gestão pública para prefeituras com **Java e Spring Boot**, aplicações web com **React e Next.js** e soluções com **IA e visão computacional**. Tenho facilidade para trabalhar em equipe, boa capacidade de resolver problemas e estou sempre aprimorando minhas habilidades técnicas.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-</div>
+## 🚀 Atualmente
 
-###
+- 💼 Desenvolvedor Full Stack na **WS Assessoria e Consultoria Municipal**, no **WS-Services**, ecossistema de microsserviços para gestão pública usado por prefeituras como Correntes, Calçados, Paranatama e Bom Conselho (mais de 30 unidades gestoras)
+- 🎓 Bolsista PIBEX na UFAPE, construindo um aplicativo de apoio a mulheres em situação de risco
+- 👨‍🏫 Monitor da disciplina de Interação Humano-Computador (IHC)
+- 🌱 Estudando arquitetura de microsserviços, cloud (Google Cloud, Terraform) e IA aplicada
 
-<h3 align="left">🛠 Ferramentas</h3>
+## 🛠 Stack
 
-###
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
+## 📌 Projetos em destaque
 
-###
+| Projeto | Descrição |
+|---|---|
+| [analyze-llm-code-efficiency](https://github.com/AdnRamos/analyze-llm-code-efficiency) | Iniciação científica (PICP): energia, memória e desempenho de código gerado por LLMs |
+| [Análise de Perfil no LinkedIn](https://github.com/AdnRamos/Analise-de-Perfil-no-LinkedIn-Google-ADK) | Agente de IA com Google ADK, Vertex AI e Cloud Run (Sauter University + Google Cloud) |
+| [Classificação de Fígados](https://github.com/AdnRamos/Classificacao_Figados_Felino_Ruminantes) | Frontend e dataset de imagens para classificação, em equipe com Medicina Veterinária |
+| [blockchain-analysis-on-iot](https://github.com/AdnRamos/blockchain-analysis-on-iot) | Projeto de Sistemas Distribuídos: blockchain de camada 2 em dispositivos IoT |
+| [COPPABACS](https://github.com/lmtsufape/coppabacs) | Plataforma para Bancos Comunitários de Sementes Crioulas (LMTS/UFAPE) |
 
-<h3 align="left">🔥   My Stats :</h3>
+Mais projetos, inclusive os de repositórios privados, no [portfólio](https://adnramos.github.io).
 
+## 📊 GitHub
 
-
-###
-<br>
-  <div align="center">
-     <a href="https://github.com/AdnRamos"></a>
-  <img height="180em" alt="Adenilson-Status" src="https://github-readme-stats.vercel.app/api?username=AdnRamos&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-  <img height="180em" alt="Adenilson-Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnRamos&layout=compact&langs_count=7&theme=ayu-mirage"/>
-  </div>
-  <br>
-
-###
 <div align="center">
-  <a href="https://www.linkedin.com/in/adn-ramos/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/adn_framos/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://wa.me/message/CXV5NGRDKMLXL1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="37" height="25" alt="whatsapp logo"  />
-  </a>
+  <img height="180em" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=AdnRamos&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+  <img height="180em" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnRamos&layout=compact&langs_count=7&theme=ayu-mirage"/>
 </div>
+
+## 📫 Contato
+
+<p align="left">
+  <a href="mailto:adenilson.ramos@ufape.edu.br">E-mail</a> ·
+  <a href="https://www.linkedin.com/in/adn-ramos/">LinkedIn</a> ·
+  <a href="https://adnramos.github.io">Portfólio</a> ·
+  <a href="https://www.instagram.com/adn_framos/">Instagram</a> ·
+  <a href="https://wa.me/message/CXV5NGRDKMLXL1">WhatsApp</a>
+</p>
